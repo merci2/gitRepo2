@@ -1,0 +1,2 @@
+change in gitRepo2 via vi-Editor inside bash terminal
+press esc to leave vi
